@@ -4,4 +4,13 @@
 - [SOP](https://farhad199.github.io/SOP/)
 - [GitHub](https://github.com/farhad199)
 - [certificat](https://github.com/farhad199/certificate/blob/main/WhatsApp%20Image%202020-11-04%20at%2022.49.53.jpeg)
------------------
+- [patchwork](Untitled-1.jpg)
+- [Latex(tex)](latex.tex)
+- [Latex(pdf)](latex.pdf)
+-----------
+> ارزیابی ها
+## بخش عمومی 
+- [ارزیابی رزومه و انگیزه نامه](form1.pdf)
+- [خلاصه ارزیابی بخش عمومی](form2.pdf)
+## بخش کارشناسی
+- [خلاصه ارزیابی درس نظریه زبان](form3.pdf)
