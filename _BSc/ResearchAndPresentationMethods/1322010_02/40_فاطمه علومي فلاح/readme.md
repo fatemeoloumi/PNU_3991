@@ -13,4 +13,4 @@
 - [ارزیابی رزومه و انگیزه نامه](1_5186354639791980841.docx)
 - [خلاصه ارزیابی بخش عمومی](1_5186354639791980842.docx)
 ## بخش کارشناسی
-- [خلاصه ارزیابی درس نظریه زبان](XX_ResearchAndPresentationMethods_CheckList_AR_3991.docx)
+- [خلاصه ارزیابی درس روش پژوهش](XX_ResearchAndPresentationMethods_CheckList_AR_3991.docx)
